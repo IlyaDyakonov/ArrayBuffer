@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/q4yx4jh9w1i75w5d?svg=true)](https://ci.appveyor.com/project/IlyaDyakonov/arraybuffer)
 
 
 
